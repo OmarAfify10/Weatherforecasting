@@ -7,4 +7,5 @@ Execution
 To run this Project use the binder Link above .
 
 Results
+The Deep Neural Network reach acceptable accuracy and error percentage . At the end of the project the Mean Absolute Error (MAE): 1.06,Mean Squared Error (MSE): 2.05 .These Results Provides good predictions for the weather .
 
